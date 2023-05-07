@@ -13,6 +13,7 @@ This website is for anyone who is interested in working out, whether they are ju
 ## Tech Stack
 Project is created with:
 * HTML/CSS
+* Javascript
 * Bootstrap
 * Node.js
 * PostgresSQL/Sequelize
